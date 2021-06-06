@@ -1,2 +1,4 @@
 # videoWeb
-a web application to upload video on operations
+
+- A web application to upload video on operations
+- Node.Js and Reeact
